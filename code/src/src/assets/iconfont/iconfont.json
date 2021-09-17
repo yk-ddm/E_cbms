@@ -1,0 +1,72 @@
+{
+  "id": "2464895",
+  "name": "E-commerceManagementSystem",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11903650",
+      "name": "toggle-left",
+      "font_class": "toggle-left",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "11903653",
+      "name": "toggle-right",
+      "font_class": "toggle-right",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "3479827",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "9922752",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11465013",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "17029899",
+      "name": "权限管理 (2)",
+      "font_class": "quanxianguanli2",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "17876337",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "77039",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "77190",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
